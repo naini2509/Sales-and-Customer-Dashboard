@@ -1,17 +1,24 @@
 📊 Sales & Customer Dashboard (Tableau)
-🔗 View the Live Dashboard
+
+
+🔗 View the Live Dashboard-
 https://public.tableau.com/app/profile/naini.sindu.reddy/viz/SalesCustomerDashboard_17469933866880/SalesDashboard
 ________________________________________
 📖 Project Overview
+
 This project delivers a combined Tableau dashboard that brings together both Sales and Customer analytics into a single interactive interface. Users can switch between views using intuitive navigation icons, allowing seamless access to both revenue trends and customer behavior insights.
+
+
 Designed for sales managers, marketing teams, and leadership, the dashboard transforms transactional data into actionable business intelligence.
 ________________________________________
 🛠️ Technologies Used
-Tool	Purpose
-Tableau Desktop	Dashboard creation, UX design
-Calculated Fields & LODs	YoY calculations, customer segmentation
-Star Schema Modeling	Optimized data relationships
-Interactivity Features	Icon-based navigation, filters, drill-through actions
+| Tool                         | Purpose                                               |
+| ---------------------------- | ----------------------------------------------------- |
+| **Tableau Desktop**          | Dashboard creation, UX design                         |
+| **Calculated Fields & LODs** | YoY calculations, customer segmentation               |
+| **Star Schema Modeling**     | Optimized data relationships                          |
+| **Interactivity Features**   | Icon-based navigation, filters, drill-through actions |
+
 ________________________________________
 🧭 Navigation Experience
 ✅ One dashboard, two views:
